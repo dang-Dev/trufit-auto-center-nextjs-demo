@@ -1,0 +1,1 @@
+# trufit-auto-center-nextjs-demo
